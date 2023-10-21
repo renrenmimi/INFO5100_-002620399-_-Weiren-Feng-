@@ -17,7 +17,7 @@ public class Main {
             }
 
             for (int j = 0; j < 15; j++) {
-                s.addQuizScore(r.nextInt(100)); 
+                s.addQuizScore(r.nextInt(100));   
             }
             session.addStudent(s);
         }
