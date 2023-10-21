@@ -1,0 +1,8 @@
+# ignore node_modules directory
+node_modules/
+
+# ignore .DS_Store from MacOs
+.DS_Store
+
+# ignore all .log files
+*.log
