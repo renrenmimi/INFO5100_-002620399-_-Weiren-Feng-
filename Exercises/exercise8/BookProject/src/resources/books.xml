@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookShelf>
+    <Book>
+        <title>Java Fundamentals</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+</BookShelf>

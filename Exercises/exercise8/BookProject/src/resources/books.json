@@ -1,0 +1,10 @@
+{
+    "BookShelf": [
+        {
+            "title": "Java Fundamentals",
+            "publishedYear": 2018,
+            "numberOfPages": 300,
+            "authors": ["John Doe", "Jane Smith"]
+        }
+    ]
+}
